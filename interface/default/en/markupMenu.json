@@ -1,0 +1,166 @@
+{
+	"testButton":{
+		"label":"My test button",
+		"shortLabel":"foo"	
+	},
+	"msDesc": {
+		"label": "Set manuscript description"
+	},
+
+	"msIdentifier": {
+		"label": "Set manuscript identifier"
+	},
+
+	"country": {
+		"label": "Set country"
+	},
+
+	"settlement": {
+		"label": "Set settlement"
+	},
+
+	"repository": {
+		"label": "Set repository"
+	},
+
+	"idno": {
+		"label": "Set id number"
+	},
+	
+	"head": {
+		"label": "Set head"
+	},
+	
+	"title": {
+		"label": "Set title"
+	},
+	"origPlace": {
+		"label": "Set origin place"
+	},
+
+	"origDate": {
+		"label": "Set origin date"
+	},
+	
+	"msContents": {
+		"label": "Set manuscript contents"
+	},
+
+	"msItem": {
+		"label": "Set item"
+	},
+
+	"locus": {
+		"label": "Set locus"
+	},
+
+	"note": {
+		"label": "Set note"
+	},
+
+	"textLang": {
+		"label": "Set text language"
+	},
+	"date": {
+		"label": "Set date"
+	},
+
+	"rubric": {
+		"label": "Set rubric"
+	},
+
+	"incipit": {
+		"label": "Set incipit"
+	},
+
+	"explicit": {
+		"label": "Set explicit"
+	},
+	"physDesc": {
+		"label": "Set physical description"
+	},
+	"term": {
+		"label": "Set term"
+	},
+	"objectDesc": {
+		"label": "Set object description"
+	},
+	"supportDesc": {
+		"label": "Set support description"
+	},
+	"support": {
+		"label": "Set support"
+	},
+
+	"extent": {
+		"label": "Set extent"
+	},
+	
+	"dimensions": {
+		"label": "Set dimensions"
+	},
+	
+	"height":{
+		"label": "Set height"
+	},
+	"width":{
+		"label": "Set width"
+	},
+	"condition":{
+		"label": "Set condition"
+	},
+	"decoDesc":{
+		"label": "Set decoration description"
+	},
+	"decoNote":{
+		"label": "Set decoration note"
+	},
+	"bindingDesc":{
+		"label": "Set binding description"
+	},
+	"binding":{
+		"label": "Set binding"
+	},
+	"history":{
+		"label": "Set history"
+	},
+	"origin":{
+		"label": "Set origin"
+	},
+	"provenance":{
+		"label": "Set provenance"
+	},
+	"name":{
+		"label": "Set name"
+	},
+	"additional":{
+		"label": "Set additional"
+	},
+	"adminInfo":{
+		"label": "Set editor info"
+	},
+	"recordHist":{
+		"label": "Set record history"
+	},
+	"source":{
+		"label": "Set source"
+	},
+	"listBibl":{
+		"label": "Set list by bibliography"
+	},
+	"bibl":{
+		"label": "Set bibliography item"
+	},
+	"author":{
+		"label": "Set author"
+	},
+	"pubPlace":{
+		"label": "Set publication place"
+	},
+	"biblScope":{
+		"label": "Set bibliography item scope"
+	},
+	"ref":{
+		"label" : "Set reference"
+	}
+}

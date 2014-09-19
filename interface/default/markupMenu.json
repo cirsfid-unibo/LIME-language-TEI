@@ -1,0 +1,202 @@
+{
+	"testButton":{
+		"pattern": "container"
+	},
+	"titleStmt": {
+		"pattern": "container"
+	},
+	"publicationStmt": {
+		"pattern": "container"
+	},
+
+	"sourceDesc": {
+		"pattern": "container"
+	},
+
+	"msDesc": {
+		"pattern": "container"
+	},
+
+	"msIdentifier": {
+		"pattern": "container"
+	},
+
+	"country": {
+		"pattern": "inline"
+	},
+
+	"settlement": {
+		"pattern": "inline"
+	},
+
+	"repository": {
+		"pattern": "inline"
+	},
+
+	"idno": {
+		"pattern": "inline"
+	},
+	
+	"head": {
+		"pattern": "container"
+	},
+	
+	"title": {
+		"pattern": "inline"
+	},
+
+
+	"origPlace": {
+		"pattern": "inline"
+	},
+
+	"origDate": {
+		"pattern": "inline"
+	},
+	
+	"msContents": {
+		"pattern": "container"
+	},
+
+	"msItem": {
+		"pattern": "container"
+	},
+
+	"locus": {
+		"pattern": "inline"
+	},
+
+	"note": {
+		"pattern": "container"
+	},
+
+	"textLang": {
+		"pattern": "inline"
+	},
+	"date": {
+		"pattern": "inline"
+	},
+
+	"rubric": {
+		"pattern": "inline"
+	},
+
+	"incipit": {
+		"pattern": "inline"
+	},
+
+	"explicit": {
+		"pattern": "inline"
+	},
+	"physDesc": {
+		"pattern": "container"
+	},
+	"term": {
+		"pattern": "inline"
+	},
+	"objectDesc": {
+		"pattern": "container"
+	},
+	"supportDesc": {
+		"pattern": "container"
+	},
+	"support": {
+		"pattern": "inline"
+	},
+
+	"extent": {
+		"pattern": "inline"
+	},
+	
+	"dimensions": {
+		"pattern": "inline"
+	},
+	
+	"height":{
+		"pattern": "inline"
+	},
+	"width":{
+		"pattern": "inline"
+	},
+	"condition":{
+		"pattern" : "inline"
+	},
+	"decoDesc":{
+		"pattern" : "container"
+	},
+	"decoNote":{
+		"pattern" : "container"
+	},
+	"bindingDesc":{
+		"pattern" : "container"
+	},
+	"binding":{
+		"pattern" : "container"
+	},
+	"history":{
+		"pattern" : "container"
+	},
+	"origin":{
+		"pattern" : "container"
+	},
+	"provenance":{
+		"pattern" : "container"
+	},
+	"name":{
+		"pattern" : "inline"
+	},
+	"additional":{
+		"pattern" : "container"
+	},
+	"adminInfo":{
+		"pattern" : "container"
+	},
+	"recordHist":{
+		"pattern" : "container"
+	},
+	"source":{
+		"pattern" : "container"
+	},
+	"listBibl":{
+		"pattern" : "container"
+	},
+	"bibl":{
+		"pattern" : "container"
+	},
+	"author":{
+		"pattern" : "inline"
+	},
+	"pubPlace":{
+		"pattern" : "inline"
+	},
+	"biblScope":{
+		"pattern" : "inline"
+	},
+	"ref":{
+		"pattern" : "inline"
+	},
+	"num": {
+		"pattern" : "inline"
+	},
+	"label": {
+		"pattern" : "inline"
+	},
+	"placeName": {
+		"pattern" : "inline"
+	},
+	"emph": {
+		"pattern" : "inline"
+	},
+	"div": {
+		"pattern" : "container"
+	},
+	"p": {
+		"pattern" : "container"
+	},
+	"list": {
+		"pattern" : "container"
+	},
+	"item": {
+		"pattern" : "container"
+	}
+}

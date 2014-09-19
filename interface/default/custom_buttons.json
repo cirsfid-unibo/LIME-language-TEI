@@ -1,0 +1,10 @@
+{
+	"supportDesc": {
+		"wrapperElement": "<div class=\"container objectDesc\"><div class=\"placeholder\">&content;</div></div>",
+		"wrapperClass" : "patternName elementName"
+	},
+	"dimensions": {
+		"wrapperElement": "<div class=\"container extent\"><div class=\"placeholder\">&content;</div></div>",
+		"wrapperClass" : "patternName elementName"
+	}
+}

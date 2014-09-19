@@ -1,0 +1,4 @@
+{
+	"views": ["TeiPreviewPanel"],
+	"controllers": ["TeiPreviewController"]
+}

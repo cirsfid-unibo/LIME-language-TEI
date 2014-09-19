@@ -1,0 +1,166 @@
+{
+	"testButton":{
+		"label":"Mio test button",
+		"shortLabel":"pippo"
+        },
+	"msDesc": {
+		"label": "Imposta descrizione del manoscritto"
+	},
+
+	"msIdentifier": {
+		"label": "Imposta l'identificatore del manoscritto"
+	},
+
+	"country": {
+		"label": "Imposta paese"
+	},
+
+	"settlement": {
+		"label": "Imposta settlement"
+	},
+
+	"repository": {
+		"label": "Imposta repository"
+	},
+
+	"idno": {
+		"label": "Imposta numero identificativo"
+	},
+	
+	"head": {
+		"label": "Imposta testata"
+	},
+	
+	"title": {
+		"label": "Imposta titolo"
+	},
+	"origPlace": {
+		"label": "Imposta luogo d'origine"
+	},
+
+	"origDate": {
+		"label": "Imposta data d'origine"
+	},
+	
+	"msContents": {
+		"label": "Imposta i contenuti del manoscritto"
+	},
+
+	"msItem": {
+		"label": "Imposta elemento"
+	},
+
+	"locus": {
+		"label": "Imposta locus"
+	},
+
+	"note": {
+		"label": "Imposta note"
+	},
+
+	"textLang": {
+		"label": "Imposta la lingua del testo"
+	},
+	"date": {
+		"label": "Imposta data"
+	},
+
+	"rubric": {
+		"label": "Imposta rubrica"
+	},
+
+	"incipit": {
+		"label": "Imposta incipit"
+	},
+
+	"explicit": {
+		"label": "Imposta explicit"
+	},
+	"physDesc": {
+		"label": "Imposta la descrizione fisica"
+	},
+	"term": {
+		"label": "Imposta term"
+	},
+	"objectDesc": {
+		"label": "Imposta la descrizione dell'oggetto"
+	},
+	"supportDesc": {
+		"label": "Imposta la descrizione del supporto"
+	},
+	"support": {
+		"label": "Imposta supporto"
+	},
+
+	"extent": {
+		"label": "Imposta extent"
+	},
+	
+	"dimensions": {
+		"label": "Imposta dimensioni"
+	},
+	
+	"height":{
+		"label": "Imposta altezza"
+	},
+	"width":{
+		"label": "Imposta larghezza"
+	},
+	"condition":{
+		"label": "Imposta condizione"
+	},
+	"decoDesc":{
+		"label": "Imposta la descrizione della decorazione"
+	},
+	"decoNote":{
+		"label": "Imposta le note della decorazione"
+	},
+	"bindingDesc":{
+		"label": "Imposta la descrizione della rilegatura "
+	},
+	"binding":{
+		"label": "Imposta rilegatura"
+	},
+	"history":{
+		"label": "Imposta storia"
+	},
+	"origin":{
+		"label": "Imposta origine"
+	},
+	"provenance":{
+		"label": "Imposta provenienza"
+	},
+	"name":{
+		"label": "Imposta nome"
+	},
+	"additional":{
+		"label": "Imposta addizionale"
+	},
+	"adminInfo":{
+		"label": "Imposta informazione dell'editor"
+	},
+	"recordHist":{
+		"label": "Imposta record storico"
+	},
+	"source":{
+		"label": "Imposta sorgente"
+	},
+	"listBibl":{
+		"label": "Imposta lista bibliografica"
+	},
+	"bibl":{
+		"label": "Imposta elemento bibliografico"
+	},
+	"author":{
+		"label": "Imposta autore"
+	},
+	"pubPlace":{
+		"label": "Imposta luogo di pubblicazione"
+	},
+	"biblScope":{
+		"label": "Imposta l'ambito dell'elemento bibliografico"
+	},
+	"ref":{
+		"label" : "Imposta riferimento"
+	}
+}

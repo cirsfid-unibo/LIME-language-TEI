@@ -1,0 +1,11 @@
+{
+	"elements": {
+		"docDate": {
+			"askFor":  {
+				"date1": {
+					"label": "Date"
+				}
+			}
+		}
+	}
+}

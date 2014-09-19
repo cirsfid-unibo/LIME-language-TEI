@@ -1,0 +1,212 @@
+{
+	"rootElements": ["msIdentifier", "head", "msContents", "physDesc", "history", "additional"],
+	"commonElements": ["num", "placeName", "emph", "div", "p", "list", "item", "name", "title", "label"],
+
+	"defaults": {
+		"leaveExpanded": false,
+		"sameLevelExpand": false,
+		"attributePrefix": "akn_"
+	},
+
+	"elements": {
+		"titleStmt": {
+			"children": ["title"]
+		},
+
+		"publicationStmt": {
+			"children": ["title"]
+		},
+
+		"sourceDesc": {
+			"children": ["msDesc"]
+		},
+
+		"msDesc": {
+			"children": ["msIdentifier", "head", "msContents", "physDesc", "history", "additional"]
+		},
+
+		"msIdentifier": {
+			"children": ["country", "settlement", "repository", "idno", "ref"]
+		},
+
+		"head": {
+			"children": ["title", "origPlace", "origDate", "ref"]
+		},
+
+		"msContents": {
+			"children": ["msItem", "ref"]
+		},
+		"msItem": {
+			"children": ["locus", "title", "rubric", "incipit", "explicit", "note", "textLang", "ref"]
+		},
+		"rubric": {
+			"children": ["locus"]
+		},
+		"physDesc": {
+			"children": ["term", "supportDesc", "decoDesc", "bindingDesc", "ref","testButton"]
+		},
+		"objectDesc": {
+			"children": ["supportDesc"]
+		},
+		"supportDesc": {
+			"children": ["support", "dimensions", "condition"]
+		},
+		"extent": {
+			"children": ["dimensions"]
+		},
+		"dimensions": {
+			"children": ["height", "width"]
+		},
+		"decoDesc": {
+			"children": ["decoNote"]
+		},
+		"decoNote": {
+			"children": ["locus"]
+		},
+		"bindingDesc": {
+			"children": ["binding"]
+		},
+		"history": {
+			"children": ["origin", "provenance", "ref"]
+		},
+		"origin": {
+			"children": ["note"]
+		},
+		"provenance": {
+			"children": ["locus", "name"]
+		},
+		"additional": {
+			"children": ["adminInfo", "listBibl", "ref"]
+		},
+		"adminInfo": {
+			"children": ["recordHist"]
+		},
+		"recordHist": {
+			"children": ["source"]
+		},
+		"source": {
+			"children": ["date"]
+		},
+		"listBibl": {
+			"children": ["bibl"]
+		},
+		"bibl": {
+			"children": ["author", "title", "pubPlace", "date", "biblScope"]
+		},
+		"ref": {
+			"askFor": {
+				"type": {
+					"label": "Type",
+					"type": "textfield",
+					"insert": {
+						"attribute": {
+							"name": "type"
+						}
+					}
+				},
+				"target": {
+					"label": "Target",
+					"type": "textfield",
+					"insert": {
+						"attribute": {
+							"name": "href"
+						}
+					}
+				}
+			}
+		},
+		"title": {
+			"askFor": {
+				"type": {
+					"label": "Type",
+					"type": "list",
+					"values": ["main", "sub"],
+					"insert": {
+						"attribute": {
+							"name": "type"
+						}
+					}
+				}
+			}
+		},
+		"idno": {
+			"askFor": {
+				"type": {
+					"label": "Type",
+					"type": "list",
+					"values": ["dodis"],
+					"insert": {
+						"attribute": {
+							"name": "type"
+						}
+					}
+				}
+			}
+		},
+		"name": {
+			"askFor": {
+				"type": {
+					"label": "Type",
+					"type": "list",
+					"values": ["person", "place", "organization"],
+					"insert": {
+						"attribute": {
+							"name": "type"
+						}
+					}
+				}
+			}
+		},
+		"label": {
+			"askFor": {
+				"type": {
+					"label": "Type",
+					"type": "list",
+					"values": ["typ", "signatur"],
+					"insert": {
+						"attribute": {
+							"name": "type"
+						}
+					}
+				}
+			}
+		},
+ 		"testButton": {
+                        "askFor": {
+                                "aDate": {
+					"label": "Give me a date",
+                                        "type": "date",
+                                        
+                                        "insert": {
+						                                  "attribute": {
+                                                        "name": "dateAttribute"
+                                                }
+                                        }
+                                }
+                        }
+                },
+		"num": {
+			"askFor": {
+				"type": {
+					"label": "Type",
+					"type": "list",
+					"values": ["cardinal"],
+					"insert": {
+						"attribute": {
+							"name": "type"
+						}
+					}
+				},
+				"value": {
+					"label": "Value",
+					"type": "textfield",
+					"insert": {
+						"attribute": {
+							"name": "value"
+						}
+					}
+				}
+			}
+		}
+	}
+}

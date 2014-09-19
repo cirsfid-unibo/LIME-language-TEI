@@ -1,0 +1,85 @@
+{
+	"docTypes": [
+		{
+			"name": "manuscriptDescription",
+			"locales": [
+				{
+					"name": "it"
+				}
+			]
+		}
+	],
+	"plugins": ["teiPreview"],
+	"transformationFiles": {
+		"languageToLIME": "TEIToHtml.xsl",
+		"LIMEtoLanguage": "HtmlToTEI.xsl"
+	},
+	"metaTemplate": {
+		"identification": {
+			"@source": "",
+			"FRBRWork": {
+				"FRBRthis": {
+					"@value": ""
+				},
+				"FRBRuri": {
+					"@value": ""
+				},
+				"FRBRdate": {
+					"@date": "",
+					"@name": ""
+				},
+				"FRBRauthor": {
+					"@akn_href": "",
+					"@as": ""
+				},
+				"FRBRcountry": {
+					"@value": ""
+				}
+			},
+			"FRBRExpression": {
+				"FRBRthis": {
+					"@value": ""
+				},
+				"FRBRuri": {
+					"@value": ""
+				},
+				"FRBRdate": {
+					"@date": "",
+					"@name": ""
+				},
+				"FRBRauthor": {
+					"@akn_href": "",
+					"@as": ""
+				},
+				"FRBRlanguage": {
+					"@language": ""
+				}
+			},
+			"FRBRManifestation": {
+				"FRBRthis": {
+					"@value": ""
+				},
+				"FRBRuri": {
+					"@value": ""
+				},
+				"FRBRdate": {
+					"@date": "",
+					"@name": ""
+				},
+				"FRBRauthor": {
+					"@akn_href": "",
+					"@as": ""
+				},
+				"FRBRformat": {
+					"@value": ""
+				}
+			}
+		},
+		"publication": {
+			"@name": "",
+			"@date": "",
+			"@number": "",
+			"@showAs": ""
+		}
+	}
+}

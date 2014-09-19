@@ -1,0 +1,162 @@
+{
+	"msDesc": {
+		"label": "Setează descrierea manuscrisului"
+	},
+
+	"msIdentifier": {
+		"label": "Setează identificatorul manuscrisului"
+	},
+
+	"country": {
+		"label": "Setează țară"
+	},
+
+	"settlement": {
+		"label": "Setează settlement"
+	},
+
+	"repository": {
+		"label": "Setează repository"
+	},
+
+	"idno": {
+		"label": "Setează identificatorul numărului"
+	},
+	
+	"head": {
+		"label": "Setează față"
+	},
+	
+	"title": {
+		"label": "Setează titlu"
+	},
+	"origPlace": {
+		"label": "Setează locul de origine"
+	},
+
+	"origDate": {
+		"label": "Setează data de origine"
+	},
+	
+	"msContents": {
+		"label": "Setează contenutul manuscrisului"
+	},
+
+	"msItem": {
+		"label": "Setează element"
+	},
+
+	"locus": {
+		"label": "Setează locus"
+	},
+
+	"note": {
+		"label": "Setează notă"
+	},
+
+	"textLang": {
+		"label": "Setează limba textului"
+	},
+	"date": {
+		"label": "Setează data"
+	},
+
+	"rubric": {
+		"label": "Setează rubrică"
+	},
+
+	"incipit": {
+		"label": "Setează incipit"
+	},
+
+	"explicit": {
+		"label": "Setează explicit"
+	},
+	"physDesc": {
+		"label": "Setează descrierea fizică"
+	},
+	"term": {
+		"label": "Setează term"
+	},
+	"objectDesc": {
+		"label": "Setează descrierea obiectului"
+	},
+	"supportDesc": {
+		"label": "Setează descrierea suportului"
+	},
+	"support": {
+		"label": "Setează suport"
+	},
+
+	"extent": {
+		"label": "Setează extent"
+	},
+	
+	"dimensions": {
+		"label": "Setează dimensiune"
+	},
+	
+	"height":{
+		"label": "Setează înălțime"
+	},
+	"width":{
+		"label": "Setează lățime"
+	},
+	"condition":{
+		"label": "Setează condiție"
+	},
+	"decoDesc":{
+		"label": "Setează descrierea decorarei"
+	},
+	"decoNote":{
+		"label": "Setează descrierea notei"
+	},
+	"bindingDesc":{
+		"label": "Setează descrierea legăturei"
+	},
+	"binding":{
+		"label": "Setează legătură"
+	},
+	"history":{
+		"label": "Setează istoria"
+	},
+	"origin":{
+		"label": "Setează origine"
+	},
+	"provenance":{
+		"label": "Setează proveniență"
+	},
+	"name":{
+		"label": "Setează nume"
+	},
+	"additional":{
+		"label": "Setează adițional"
+	},
+	"adminInfo":{
+		"label": "Setează info editorului"
+	},
+	"recordHist":{
+		"label": "Setează istoria recordului"
+	},
+	"source":{
+		"label": "Setează origine"
+	},
+	"listBibl":{
+		"label": "Setează lista de bibliografie"
+	},
+	"bibl":{
+		"label": "Setează element de bibliografie"
+	},
+	"author":{
+		"label": "Setează autor"
+	},
+	"pubPlace":{
+		"label": "Setează locul de publicare"
+	},
+	"biblScope":{
+		"label": "Setează dominiul elementului de bibliografie"
+	},
+	"ref":{
+		"label" : "Setează riferiment"
+	}
+}
